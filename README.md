@@ -1,2 +1,5 @@
-# CSM3123-Lab-2
-Lab 2 - Layout Exploration, Control Experiment, Segmented Control Experiment, Image Experiment and Menu Experiment
+# CSM3123 Native Mobile Programming Lab 2
+
+## Name: Ahmad Afif Syahmi bin Ahmad Rozali
+## Matric: S65526
+## Date: 5.11.2024
